@@ -37,7 +37,7 @@ const Contact = () => {
           </div>
 
           <form 
-            action="https://formspree.io/f/myzprjyp"
+            action="https://formspree.io/f/xeolnlrr"
             method="POST"
             className="space-y-8"
           >
